@@ -1,0 +1,6 @@
+/home/changliu/CMakeTest/cmake-build/CMakeFiles/math.dir
+/home/changliu/CMakeTest/cmake-build/CMakeFiles/mjson.dir
+/home/changliu/CMakeTest/cmake-build/CMakeFiles/mLog.dir
+/home/changliu/CMakeTest/cmake-build/CMakeFiles/demo.dir
+/home/changliu/CMakeTest/cmake-build/CMakeFiles/edit_cache.dir
+/home/changliu/CMakeTest/cmake-build/CMakeFiles/rebuild_cache.dir

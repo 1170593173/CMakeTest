@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmLog.a CMakeFiles/mLog.dir/src/c/Log/LogInner.cpp.o CMakeFiles/mLog.dir/src/c/Log/LogOuter.cpp.o
+/usr/bin/ranlib libmLog.a

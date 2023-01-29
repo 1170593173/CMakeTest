@@ -1,0 +1,1 @@
+/usr/bin/c++  -pipe -std=c++11 -g CMakeFiles/demo.dir/src/c/main.cpp.o CMakeFiles/demo.dir/others/myfile.cpp.o -o demo  libmath.a libmjson.a libmLog.a -lpthread 
