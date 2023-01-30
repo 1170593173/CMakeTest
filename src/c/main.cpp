@@ -38,6 +38,7 @@ int reduce_int(int x, int y);
 #define LOG_TRACE(func, format, ...) \
     func(LOG_TAG, "[%s][%s][%d]: " format, __FILENAME__, __FUNCTION__, __LINE__, ##__VA_ARGS__)
 
+/*用途：打印不同类型的日志*/
 #define LOGV(format, ...) LOG_TRACE(logv_tag, format, ##__VA_ARGS__)
 #define LOGD(format, ...) LOG_TRACE(logd_tag, format, ##__VA_ARGS__)
 #define LOGI(format, ...) LOG_TRACE(logi_tag, format, ##__VA_ARGS__)
